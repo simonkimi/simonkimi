@@ -6,11 +6,11 @@
 经常整的活:
 - ![](https://img.shields.io/badge/-Android-green?&logo=Android&logoColor=fff) By ![](https://img.shields.io/badge/-Kotlin-orange?&logo=Kotlin&logoColor=fff) ![](https://img.shields.io/badge/-Flutter-0091EA?&logo=flutter&logoColor=fff)
 
-- 前端 By ![](https://img.shields.io/badge/-React-blue?logo=react&logoColor=fff) ![](https://img.shields.io/badge/-Vue.js-41B883?logo=vue.js&logoColor=fff)
+- 前端 By ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff) ![](https://img.shields.io/badge/-Vue.js-41B883?logo=vue.js&logoColor=fff)
 
 - 后端 By  ![](https://img.shields.io/badge/-Django-0C4B33?logo=django&logoColor=fff)
 
-最喜欢用 ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=fff)  ![](https://img.shields.io/badge/-TypeScript-294E80?logo=TypeScript&logoColor=fff) 
+最常用 ![](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
 
 
 ### 最趁手工具
