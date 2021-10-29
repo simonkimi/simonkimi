@@ -14,6 +14,6 @@
 
 
 ### 最趁手工具
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkimi">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkimi&layout=compact">
 
 
