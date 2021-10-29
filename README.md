@@ -10,10 +10,6 @@
 
 - 后端 By  ![](https://img.shields.io/badge/-Django-0C4B33?logo=django&logoColor=fff)
 
-最常用 ![](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-
-
-### 最趁手工具
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkimi&layout=compact">
 
 
