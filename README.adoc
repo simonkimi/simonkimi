@@ -7,4 +7,4 @@ image:https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=000[]
 image:https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff[]
 image:https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff[]
 
-image:https://github-readme-stats.vercel.app/api/top-langs/?username=simonkimi&layout=compact&hide=html,cmake&langs_count=6&theme=github_dark[]
+// image:https://github-readme-stats.vercel.app/api/top-langs/?username=simonkimi&layout=compact&hide=html,cmake&langs_count=6&theme=github_dark[]
