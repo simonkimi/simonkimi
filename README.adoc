@@ -7,4 +7,4 @@ image:https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=000[]
 image:https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff[]
 image:https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff[]
 
-image::profile/top-langs.svg[常用语言]
+image::profile/top-langs-a0de58a2688042219c3ba8b8623321f0.svg[常用语言]
