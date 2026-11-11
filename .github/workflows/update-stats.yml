@@ -36,7 +36,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide=html,cmake&langs_count=6&theme=github_dark&exclude_repo=ink-firmware,BtsUds,CatlMdfConverter,MdfConverter
+          options: username=${{ github.repository_owner }}&layout=compact&hide=html,cmake&langs_count=6&theme=github_dark&exclude_repo=ink-firmware,BtsUds,CatlMdfConverter,MdfConverter,Ra3Hub
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
